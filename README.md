@@ -16,6 +16,12 @@ The project aims to predict the popularity of a movie based on it's overview tex
 
 This project demonstrates that **it is very hard to predict the popularity of a movie based on its overview text**.
 
+As you can see from this confusion matrix, the results are not exactly accurate:
+
+
+![Capture d'écran 2023-12-13 17:48:38](https://github.com/siliataider/Neural-Network-Analysis-for-Predictive-Modeling/assets/69010419/a460f354-a39d-425d-b836-b4b3b26e4e97)
+
+
 ## Approaches
    - **Regression** => Target: average_vote
    - **Classification** => Target: poplarity_class
