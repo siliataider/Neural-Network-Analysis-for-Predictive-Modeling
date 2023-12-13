@@ -16,6 +16,10 @@ The project aims to predict the popularity of a movie based on it's overview tex
 
 This project demonstrates that **it is very hard to predict the popularity of a movie based on its overview text**.
 
+## Approaches
+   - Regression => Target: average_vote
+   - Classification => Target: poplarity_class
+
 ## Contents
 
 1. 📚 **Preparation**
